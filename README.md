@@ -1,2 +1,0 @@
-# Scream2k
-null
